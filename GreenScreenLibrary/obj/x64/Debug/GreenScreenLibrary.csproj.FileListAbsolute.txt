@@ -1,0 +1,10 @@
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\bin\x64\Debug\GreenScreenLibrary.dll
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\bin\x64\Debug\GreenScreenLibrary.pdb
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\bin\x64\Debug\System.Drawing.Common.dll
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\bin\x64\Debug\System.Drawing.Common.pdb
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\bin\x64\Debug\System.Drawing.Common.xml
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\obj\x64\Debug\GreenScreenLibrary.csproj.AssemblyReference.cache
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\obj\x64\Debug\GreenScreenLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\obj\x64\Debug\GreenScr.AAA4998C.Up2Date
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\obj\x64\Debug\GreenScreenLibrary.dll
+C:\Users\Bartek\source\repos\GreenScreenRemover\GreenScreenLibrary\obj\x64\Debug\GreenScreenLibrary.pdb

@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|c:\\users\\bartek\\source\\repos\\greenscreenremover\\greenscreenremover\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|solutionrelative:greenscreenremover\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\greenscreenremover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|solutionrelative:greenscreenremover\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\greenscreenremover\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3691FE81-601D-476D-AB76-7A904E65549A}|GreenScreenRemover\\GreenScreenRemover.csproj|solutionrelative:greenscreenremover\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AE007B-F0C1-4E95-ADD2-F214DA77D39F}|GreenScreenASMLibrary\\GreenScreenASMLibrary.vcxproj|C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenASMLibrary\\AsmLibrary.asm||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F8AE007B-F0C1-4E95-ADD2-F214DA77D39F}|GreenScreenASMLibrary\\GreenScreenASMLibrary.vcxproj|solutionrelative:GreenScreenASMLibrary\\AsmLibrary.asm||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A697F866-9F0B-4863-852B-7B4B8AFA5C7A}|GreenScreenLibrary\\GreenScreenLibrary.csproj|C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\greenscreenlibrary\\greenscreenremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A697F866-9F0B-4863-852B-7B4B8AFA5C7A}|GreenScreenLibrary\\GreenScreenLibrary.csproj|solutionrelative:greenscreenlibrary\\greenscreenremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreenScreenRemover.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenLibrary\\GreenScreenRemover.cs",
+              "RelativeDocumentMoniker": "GreenScreenLibrary\\GreenScreenRemover.cs",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenLibrary\\GreenScreenRemover.cs",
+              "RelativeToolTip": "GreenScreenLibrary\\GreenScreenRemover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:38:53.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenRemover\\MainForm.cs",
+              "RelativeDocumentMoniker": "GreenScreenRemover\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenRemover\\MainForm.cs",
+              "RelativeToolTip": "GreenScreenRemover\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:55:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AsmLibrary.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenASMLibrary\\AsmLibrary.asm",
+              "RelativeDocumentMoniker": "GreenScreenASMLibrary\\AsmLibrary.asm",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenASMLibrary\\AsmLibrary.asm",
+              "RelativeToolTip": "GreenScreenASMLibrary\\AsmLibrary.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T20:45:31.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenRemover\\Program.cs",
+              "RelativeDocumentMoniker": "GreenScreenRemover\\Program.cs",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenRemover\\Program.cs",
+              "RelativeToolTip": "GreenScreenRemover\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:54:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\GreenScreenRemover\\GreenScreenRemover\\MainForm.cs",
+              "RelativeDocumentMoniker": "GreenScreenRemover\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Git\\GreenScreenRemover\\GreenScreenRemover\\MainForm.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Git\\GreenScreenRemover\\GreenScreenRemover\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:55:10.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
